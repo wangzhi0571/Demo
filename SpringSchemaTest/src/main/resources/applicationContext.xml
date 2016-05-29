@@ -1,0 +1,10 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:c="http://www.focuscoder.com/schema/people"
+	xsi:schemaLocation="  
+	http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd  
+	http://www.focuscoder.com/schema/people 
+	http://www.focuscoder.com/schema/people.xsd">
+	<c:people id="cutesource" name="Wang Zhihao" age="27" />
+</beans> 
